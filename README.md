@@ -1,12 +1,30 @@
-### Hi there, I'm  Towhidul Islam [website] 👋
+### Hi there, I'm  Towhidul Islam 👋
 
 ## I'm a Website Developer!
 - 🔭 I’m currently working Mern-Stack Development!
 - 🌱 I’m currently learning more and more 🤣
-- 🌱 I'm trying to be more creative and will come back soon with something unique 🤣
-- 🥅 2021 Goals: TypeScript, Next.js, Vue & angular
+- 🌱 I'm Experience in problem-solving 🤣
+- 🥅 Tech Stack: HTML, CSS, JavaScript, React.js, Node.js, WordPress.
 - ⚡  I always like to learn new things and have experience with new stuff 
 - ⚡ Fun fact: I want to be a successful Web Developers
+- ⚡ Understanding of advanced React patterns such as hooks
+- ⚡ Experience using APIs
+- ⚡ Writing code with a focus on quality, scalability, and testability
+- ⚡ Exceptional written and verbal communication skills
+
+### Skills:
+
+Programming Language   :   C/C++, JavaScript, Java
+
+Frameworks & Libraries :   Express, Bootstrap, Material-UI, React JS
+
+Web Technologies       :   HTML, CSS3, Node JS
+
+Database               :   MySQL, MongoDB
+
+Tools                  :   Postman, Netlify, Firebase, Git Hub
+
+IDE                    :   VS Code, Netbeans, PyCharm, Code Blocks
 
 ### Connect with me:
 
